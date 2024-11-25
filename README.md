@@ -17,6 +17,7 @@ Learning:
   <ul>
     <li>Python
     <li>Java (At school)
+    <li>LaTeX
   </ul>
 Want to learn:
   <ul>
