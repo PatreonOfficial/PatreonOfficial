@@ -21,7 +21,6 @@ Learning:
   </ul>
 Want to learn:
   <ul>
-    <li>C
     <li>C++
     <li>C#
     <li>Java
