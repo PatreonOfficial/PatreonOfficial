@@ -12,19 +12,17 @@ Capable of:
   <ul>
     <li>Python
     <li>Some Java
+    <li>Some LaTeX
   </ul>
 Learning:
   <ul>
     <li>Python
-    <li>Java (At school)
     <li>LaTeX
   </ul>
 Want to learn:
   <ul>
     <li>C++
     <li>C#
-    <li>Java
-    <li>Python
   </ul>
 <br>
 
